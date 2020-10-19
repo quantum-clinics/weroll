@@ -1,3 +1,6 @@
+Fork 自magicfish的weroll项目，目的是删掉没用的代码模块，根据QTC架构做相应的调整
+-----------------------------------------
+
 <h1>weroll</h1>
 <h3>极速搭建一个基于微服务架构的Node.js应用程序，用最小的代码实现常见的web业务。</h3>
 weroll基于MongoDB，Redis，Express 4.x以及APIServer（基于原生http库开发的极简化API服务库），经过数个商业项目凝练而来。
